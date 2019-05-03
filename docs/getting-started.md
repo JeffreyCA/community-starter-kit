@@ -35,4 +35,4 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+> Thanks for opening your first issue here! Be sure to follow the issue template!
